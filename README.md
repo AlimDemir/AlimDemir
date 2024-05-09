@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://dev.to/alimdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alimdemir" height="30" width="40" /></a>
 <a href="https://twitter.com/alim__demir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alim__demir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alim-demir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alim-demir" height="30" width="40" /></a>
 <a href="https://kaggle.com/alimdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alimdemir" height="30" width="40" /></a>
 <a href="https://instagram.com/alim__demir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alim__demir" height="30" width="40" /></a>
 <a href="https://medium.com/@alimdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alimdemir" height="30" width="40" /></a>
